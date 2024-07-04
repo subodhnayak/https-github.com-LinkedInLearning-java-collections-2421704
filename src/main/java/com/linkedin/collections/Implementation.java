@@ -1,7 +1,7 @@
 package com.linkedin.collections;
 
 public class Implementation implements Contract   {
-
+    //
     @Override
     public void term1() {
         // TODO Auto-generated method stub
